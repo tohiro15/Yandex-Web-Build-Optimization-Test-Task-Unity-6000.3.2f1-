@@ -1,0 +1,181 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "\u041F\u0430\u0440\u0430\u0437\u0430\u0443\u0440\u043E\u043B\u043E\u0444\u044B\u0410\u0442\u043B\u0430\u0441"
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 4
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 4
+      m_BuildTarget: Standalone
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 29
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 4
+      m_BuildTarget: WebGL
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 29
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 27268f3caee12a6499146508451ff1f6, type: 3}
+    - {fileID: 2800000, guid: 4c31e2c73143232429dec831d3a58ab8, type: 3}
+    - {fileID: 2800000, guid: 6ee165bf162f58d49b127dc123a749de, type: 3}
+    - {fileID: 2800000, guid: 633b52a216c184a448967284aaff7b26, type: 3}
+    - {fileID: 2800000, guid: d71180ba8d496424fbe69445591ec12f, type: 3}
+    - {fileID: 2800000, guid: a3395e6ebe032ec45a937f1e61f106d9, type: 3}
+    - {fileID: 2800000, guid: 1ada311d6433956429e97444b89a395b, type: 3}
+    - {fileID: 2800000, guid: 75d54e3e23bd443479e1de06a4ba4743, type: 3}
+    - {fileID: 2800000, guid: ca5a6f9b1a33cdd4c904dfd22e59850c, type: 3}
+    - {fileID: 2800000, guid: d23d48ccfb9a8c5469df3088c463aacf, type: 3}
+    - {fileID: 2800000, guid: 340650516c049de44a2fcfbfc5f3be13, type: 3}
+    - {fileID: 2800000, guid: 1763b7b23195e1d49b09561eb9cf1405, type: 3}
+    - {fileID: 2800000, guid: b0692351a88dc6f47b987c661457f32f, type: 3}
+    - {fileID: 2800000, guid: 986bf8ff8694b30478a0e4dbdc545945, type: 3}
+    - {fileID: 2800000, guid: 0ad3530ffa6d08743841153a8a4d0083, type: 3}
+    - {fileID: 2800000, guid: b0fb161a52688024781b7c1088876898, type: 3}
+    - {fileID: 2800000, guid: 79928c2a15cdf6645a7a41a901ca51ba, type: 3}
+    - {fileID: 2800000, guid: 0bb43333cdeb01043b576611fb51fd82, type: 3}
+    - {fileID: 2800000, guid: 330e695ec585d9047bca8dde1e2accec, type: 3}
+    - {fileID: 2800000, guid: c5b4fb970a82c2943b0f092ec909101c, type: 3}
+    - {fileID: 2800000, guid: 34266caa02f4a75409652f83cd9e7707, type: 3}
+    - {fileID: 2800000, guid: c9df683bf357da84589e2c8af3a8f064, type: 3}
+    - {fileID: 2800000, guid: db8b7729f6364ab409b782c04cdea5cd, type: 3}
+    - {fileID: 2800000, guid: ff05c9f2010b16d41913853e03dbf827, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 340650516c049de44a2fcfbfc5f3be13: 21300000
+    - b0692351a88dc6f47b987c661457f32f: 21300000
+    - 633b52a216c184a448967284aaff7b26: 21300000
+    - 1763b7b23195e1d49b09561eb9cf1405: 21300000
+    - ff05c9f2010b16d41913853e03dbf827: 21300000
+    - 0bb43333cdeb01043b576611fb51fd82: 21300000
+    - c5b4fb970a82c2943b0f092ec909101c: 21300000
+    - 4c31e2c73143232429dec831d3a58ab8: 21300000
+    - db8b7729f6364ab409b782c04cdea5cd: 21300000
+    - b0fb161a52688024781b7c1088876898: 21300000
+    - 79928c2a15cdf6645a7a41a901ca51ba: 21300000
+    - 34266caa02f4a75409652f83cd9e7707: 21300000
+    - d71180ba8d496424fbe69445591ec12f: 21300000
+    - c9df683bf357da84589e2c8af3a8f064: 21300000
+    - ca5a6f9b1a33cdd4c904dfd22e59850c: 21300000
+    - 27268f3caee12a6499146508451ff1f6: 21300000
+    - d23d48ccfb9a8c5469df3088c463aacf: 21300000
+    - 1ada311d6433956429e97444b89a395b: 21300000
+    - 75d54e3e23bd443479e1de06a4ba4743: 21300000
+    - 330e695ec585d9047bca8dde1e2accec: 21300000
+    - a3395e6ebe032ec45a937f1e61f106d9: 21300000
+    - 0ad3530ffa6d08743841153a8a4d0083: 21300000
+    - 6ee165bf162f58d49b127dc123a749de: 21300000
+    - 986bf8ff8694b30478a0e4dbdc545945: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 340650516c049de44a2fcfbfc5f3be13, type: 3}
+  - {fileID: 21300000, guid: b0692351a88dc6f47b987c661457f32f, type: 3}
+  - {fileID: 21300000, guid: 633b52a216c184a448967284aaff7b26, type: 3}
+  - {fileID: 21300000, guid: 1763b7b23195e1d49b09561eb9cf1405, type: 3}
+  - {fileID: 21300000, guid: ff05c9f2010b16d41913853e03dbf827, type: 3}
+  - {fileID: 21300000, guid: 0bb43333cdeb01043b576611fb51fd82, type: 3}
+  - {fileID: 21300000, guid: c5b4fb970a82c2943b0f092ec909101c, type: 3}
+  - {fileID: 21300000, guid: 4c31e2c73143232429dec831d3a58ab8, type: 3}
+  - {fileID: 21300000, guid: db8b7729f6364ab409b782c04cdea5cd, type: 3}
+  - {fileID: 21300000, guid: b0fb161a52688024781b7c1088876898, type: 3}
+  - {fileID: 21300000, guid: 79928c2a15cdf6645a7a41a901ca51ba, type: 3}
+  - {fileID: 21300000, guid: 34266caa02f4a75409652f83cd9e7707, type: 3}
+  - {fileID: 21300000, guid: d71180ba8d496424fbe69445591ec12f, type: 3}
+  - {fileID: 21300000, guid: c9df683bf357da84589e2c8af3a8f064, type: 3}
+  - {fileID: 21300000, guid: ca5a6f9b1a33cdd4c904dfd22e59850c, type: 3}
+  - {fileID: 21300000, guid: 27268f3caee12a6499146508451ff1f6, type: 3}
+  - {fileID: 21300000, guid: d23d48ccfb9a8c5469df3088c463aacf, type: 3}
+  - {fileID: 21300000, guid: 1ada311d6433956429e97444b89a395b, type: 3}
+  - {fileID: 21300000, guid: 75d54e3e23bd443479e1de06a4ba4743, type: 3}
+  - {fileID: 21300000, guid: 330e695ec585d9047bca8dde1e2accec, type: 3}
+  - {fileID: 21300000, guid: a3395e6ebe032ec45a937f1e61f106d9, type: 3}
+  - {fileID: 21300000, guid: 0ad3530ffa6d08743841153a8a4d0083, type: 3}
+  - {fileID: 21300000, guid: 6ee165bf162f58d49b127dc123a749de, type: 3}
+  - {fileID: 21300000, guid: 986bf8ff8694b30478a0e4dbdc545945, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - "\u041F\u0430\u0440\u0430\u0437\u0430\u0443\u0440\u043E\u043B\u043E\u0444\u044B
+    (\u0442\u0435\u043D\u044C)"
+  - "\u0421\u043F\u0438\u043D\u0430 (\u0442\u0435\u043D\u044C)"
+  - "\u0416\u0438\u0432\u043E\u0442 (\u0442\u0435\u043D\u044C)"
+  - "\u0421\u043F\u0438\u043D\u0430"
+  - "\u0428\u0435\u044F (\u0442\u0435\u043D\u044C)"
+  - "\u0413\u043E\u043B\u043E\u0432\u0430 (\u0442\u0435\u043D\u044C)"
+  - "\u041B\u0430\u043F\u044B (\u0442\u0435\u043D\u044C)"
+  - "\u0413\u043E\u043B\u043E\u0432\u0430 (\u0442\u0435\u043D\u044C)"
+  - "\u0425\u0432\u043E\u0441\u0442 (\u0442\u0435\u043D\u044C)"
+  - "\u0428\u0435\u044F"
+  - "\u0428\u0435\u044F (\u0442\u0435\u043D\u044C)"
+  - "\u041D\u043E\u0433\u0430 (\u0442\u0435\u043D\u044C)"
+  - "\u041B\u0430\u043F\u044B"
+  - "\u0421\u043F\u0438\u043D\u0430 (\u0442\u0435\u043D\u044C)"
+  - "\u041F\u0430\u0440\u0430\u0437\u0430\u0443\u0440\u043E\u043B\u043E\u0444\u044B"
+  - "\u0413\u043E\u043B\u043E\u0432\u0430"
+  - "\u041F\u0430\u0440\u0430\u0437\u0430\u0443\u0440\u043E\u043B\u043E\u0444\u044B
+    (\u0434\u0435\u0440\u0435\u0432\u043E)"
+  - "\u041D\u043E\u0433\u0430"
+  - "\u041D\u043E\u0433\u0430 (\u0442\u0435\u043D\u044C)"
+  - "\u0416\u0438\u0432\u043E\u0442 (\u0442\u0435\u043D\u044C)"
+  - "\u041B\u0430\u043F\u044B (\u0442\u0435\u043D\u044C)"
+  - "\u0425\u0432\u043E\u0441\u0442 (\u0442\u0435\u043D\u044C)"
+  - "\u0416\u0438\u0432\u043E\u0442"
+  - "\u0425\u0432\u043E\u0441\u0442"
+  m_RenderDataMap: {}
+  m_Tag: "\u041F\u0430\u0440\u0430\u0437\u0430\u0443\u0440\u043E\u043B\u043E\u0444\u044B\u0410\u0442\u043B\u0430\u0441"
+  m_IsVariant: 0
